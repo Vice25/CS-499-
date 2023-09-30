@@ -1,18 +1,19 @@
-# CS-499- Computer Science Capstone
+# CS 499 Computer Science Capstone
+
+## Artifacts 
+
+### Code Review for the three Artifacts
 
 
 
-[(https://youtu.be/4n3DoIpqtC4) ]   (  Artifact One: Software Design and Engineering)
+       [ Artifact One: Software Design and Engineering ]
+            (https://youtu.be/4n3DoIpqtC4)    
 
-[(https://youtu.be/8b6zVVGQ_Vg)]    (  Artifact Two: Algorithms and Data Structures)
+          [ Artifact Two: Algorithms and Data Structure]
+                (https://youtu.be/8b6zVVGQ_Vg)    
 
-[(https://youtu.be/Qle14z4Gb1A)]    ( Artifact Three: Databases)
+               [ Artifact Three: Databases]
+              (https://youtu.be/Qle14z4Gb1A)  
 
-### Artifacts
-
-
-- Artifact One 
-- Artifact Two
-- Artifact Three
 
 
