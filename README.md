@@ -7,13 +7,13 @@
 
 
         Artifact One: Software Design and Engineering 
-            ( [https://youtu.be/4n3DoIpqtC4](url) )    
+             [https://youtu.be/4n3DoIpqtC4]  
 
            Artifact Two: Algorithms and Data Structure
-                ([ https://youtu.be/8b6zVVGQ_Vg ](url))    
+                [ https://youtu.be/8b6zVVGQ_Vg ]   
 
                 Artifact Three: Databases
-              ( [https://youtu.be/Qle14z4Gb1A](url) )  
+               [https://youtu.be/Qle14z4Gb1A]  
 
 
 
