@@ -1,5 +1,5 @@
 title: Victor Landi
 logo: /assets/img/viewprofileimage.jpg
 description: text below image
-show_downloads: true
-theme: jekyll-theme-Dinky
+#show_downloads: true
+theme: jekyll-theme-Minimal
