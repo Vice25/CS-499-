@@ -2,8 +2,15 @@
 
 This is where the self-assessment will go
 
+These are my code reviews:
 
-Below are links to the Three Artifacts
+[Artifact One](https://youtu.be/4n3DoIpqtC4)
+
+[Artifact Two](https://youtu.be/8b6zVVGQ_Vg)
+
+[Artifact Three](https://youtu.be/Qle14z4Gb1A)
+
+
 
 Original 
 
