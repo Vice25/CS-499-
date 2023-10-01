@@ -1,14 +1,27 @@
-                                           CS 499 Computer Science Capstone
+# CS 499 Computer Science Capstone
 
-                                                       Artifacts 
+This is where the self-assessment will go
 
-                                        Code Review for the three Artifacts
 
-                                             https://youtu.be/4n3DoIpqtC4  
-     
-                                             https://youtu.be/8b6zVVGQ_Vg  
-     
-                                             https://youtu.be/Qle14z4Gb1A
+Below are links to the Three Artifacts
+
+Original 
+
+
+Enhancement
+
+
+Narrative
+
+
+additional files needed
+
+
+
+ 
+ 
+
+                                                 
               
 
-                                                        More text
+                                                    
