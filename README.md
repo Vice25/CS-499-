@@ -17,7 +17,7 @@ These are my code reviews:
 
 ## Artifact One Software Design and Engineering
 
-![Artifact One](jason-goodman-Oalh2MojUuk-unsplash.jpg)
+![Artifact One](/assets/img/jason-goodman-Oalh2MojUuk-unsplash.jpg)
 
 
 
@@ -32,11 +32,11 @@ Narrative
 
 additional files needed
 
-![Artifact Two](gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
+![Artifact Two](assets/img/gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
 
 ## The third artifact
 
-![Artifact Three](shahadat-rahman-BfrQnKBulYQ-unsplash.jpg)
+![Artifact Three](assets/img/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg)
 
 Conclusion
 
