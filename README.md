@@ -5,6 +5,8 @@ This is where the self-assessment will go
 ## Table of Contents:
 
 
+[Code Review] (/assets/img/clement-helardot-95YRwf6CNw8-unsplash.jpg)
+
 These are my code reviews:
 
 -[Artifact One](https://youtu.be/4n3DoIpqtC4)
