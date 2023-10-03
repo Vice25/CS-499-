@@ -15,6 +15,10 @@ These are my code reviews:
 
 -[Artifact Three](https://youtu.be/Qle14z4Gb1A)
 
+## Artifact One Software Design and Engineering
+
+![Artifact One](jason-goodman-Oalh2MojUuk-unsplash.jpg)
+
 
 
 Original 
@@ -28,7 +32,13 @@ Narrative
 
 additional files needed
 
+![Artifact Two](gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
 
+## The third artifact
+
+![Artifact Three](shahadat-rahman-BfrQnKBulYQ-unsplash.jpg)
+
+Conclusion
 
  
  
