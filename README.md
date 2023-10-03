@@ -5,7 +5,7 @@ This is where the self-assessment will go
 ## Table of Contents:
 
 
-[Code Review](/assets/img/clement-helardot-95YRwf6CNw8-unsplash.jpg)
+![Code Review](/assets/img/clement-helardot-95YRwf6CNw8-unsplash.jpg)
 
 These are my code reviews:
 
