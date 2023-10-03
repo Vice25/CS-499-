@@ -36,9 +36,10 @@ additional files needed
 
 ## The third artifact
 
-![Artifact Three](assets/img/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg)
 
-Conclusion
+![Artifact Three](assets/img/mimi-thian-ZKBzlifgkgw-unsplash.jpg)
+
+## Conclusion
 
  
  
