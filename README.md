@@ -91,9 +91,9 @@ Below is a link to the original Artifact, the enhanced Artifact, and an accompan
 [Artifact Two](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two.zip)
 
 
-[Artifact Two Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two%20Narrative(1).docx)
+[Artifact Two Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two%20Narrative%20(1).docx)
 
-## Decsription
+## Description
 
 
 ![Artifact Three](assets/img/gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
@@ -109,6 +109,7 @@ are additional files to support the work. Two files that contain SQL scripts
 
 [Artifact Three Narrative]()
 
+## Description
 
 ## In conclusion
 
