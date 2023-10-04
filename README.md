@@ -8,10 +8,14 @@
 - Artifact One **Software Design and Engineering**
 - Artifact Two **Algorithms and Data Structures**
 - Artifact Three **Databases**
--
--  ## Self Assessment
 
--   
+
+
+## Self Assessment
+
+
+
+  
 Over the course of my educational journey towards earning a Bachelor of Science in Computer Science, which began in January 2020, I have actively worked to develop a wide range of skills and competencies in various aspects of computer science. My concentration is Data Analytics. I am looking to work in this field; I am particularly interested in the areas of data cleaning and data mining. Both were subjects I was able to work on while pursuing this concentration. 
 
  Completing my coursework and developing this ePortfolio has been an invaluable journey that has not only allowed me to showcase my strengths but has also significantly shaped my professional goals and values. Throughout the program, I have acquired a diverse set of skills and competencies that have prepared me to enter and excel in the computer science field. In this self-assessment, I will discuss how my coursework and ePortfolio have contributed to my readiness for employment in the computer science field, with a focus on collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering, database management, and security.
@@ -55,11 +59,11 @@ a code review, and the enhancements I propose for each artifact.
 ![Code Review](/assets/img/jason-goodman-Oalh2MojUuk-unsplash.jpg)
 The links to the three code reviews:
 
--[Artifact One](https://youtu.be/4n3DoIpqtC4)
+[Artifact One](https://youtu.be/4n3DoIpqtC4)
 
--[Artifact Two](https://youtu.be/8b6zVVGQ_Vg)
+[Artifact Two](https://youtu.be/8b6zVVGQ_Vg)
 
--[Artifact Three](https://youtu.be/Qle14z4Gb1A)
+[Artifact Three](https://youtu.be/Qle14z4Gb1A)
 
 Let us begin with Artifact One - Software Design and Engineering:
 
@@ -71,6 +75,8 @@ Let us begin with Artifact One - Software Design and Engineering:
 Below is a link to the original Artifact, the enhanced Artifact, and an accompanying Narrative with details of my skills demonstrated. 
 
 [Artifact One](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One.zip)
+
+
 [Artifact One Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One%20Narrative.docx)
 
 ## Description
@@ -82,6 +88,12 @@ Below is a link to the original Artifact, the enhanced Artifact, and an accompan
 
 Below is a link to the original Artifact, the enhanced Artifact, and an accompanying Narrative with details of my skills demonstrated.
 
+[Artifact Two](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two.zip)
+
+
+[Artifact Two Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two%20Narrative(1).docx)
+
+## Decsription
 
 
 ![Artifact Three](assets/img/gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
@@ -92,6 +104,10 @@ Below is a link to the original Artifact, the enhanced Artifact, and an accompan
 
 are additional files to support the work. Two files that contain SQL scripts
 
+[Artifact Three]()
+
+
+[Artifact Three Narrative]()
 
 
 ## In conclusion
