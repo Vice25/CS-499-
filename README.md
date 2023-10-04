@@ -1,6 +1,6 @@
 # ePortfolio to Introduce Victor Landi
 
-![Introduction](annie-spratt-dWYU3i-mqEo-unsplash.jpg)
+![Introduction](/assets/img/annie-spratt-dWYU3i-mqEo-unsplash.jpg)
 
 Over the course of my educational journey towards earning a Bachelor of Science in Computer Science, which began in January 2020, I have actively worked to develop a wide range of skills and competencies in various aspects of computer science. My concentration is Data Analytics. I am looking to work in this field; I am particularly interested in the areas of data cleaning and data mining. Both were subjects I was able to work on while pursuing this concentration. 
 
@@ -60,8 +60,8 @@ Let us begin with Artifact One - Software Design and Engineering:
 
 Below is a link to the original Artifact, the enhanced Artifact, and an accompanying Narrative with details of my skills demonstrated. 
 
-![Artifact One](/Vice25/Artifact One.zip)
-
+![Artifact One](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One.zip)
+![Artifact One Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact One Narrative.docx)
 
 
 ![Artifact Two](assets/img/mimi-thian-ZKBzlifgkgw-unsplash.jpg)
