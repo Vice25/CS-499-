@@ -1,5 +1,7 @@
 # ePortfolio to Introduce Victor Landi
 
+![Introduction](annie-spratt-dWYU3i-mqEo-unsplash.jpg)
+
 Over the course of my educational journey towards earning a Bachelor of Science in Computer Science, which began in January 2020, I have actively worked to develop a wide range of skills and competencies in various aspects of computer science. My concentration is Data Analytics. I am looking to work in this field; I am particularly interested in the areas of data cleaning and data mining. Both were subjects I was able to work on while pursuing this concentration. 
 
  Completing my coursework and developing this ePortfolio has been an invaluable journey that has not only allowed me to showcase my strengths but has also significantly shaped my professional goals and values. Throughout the program, I have acquired a diverse set of skills and competencies that have prepared me to enter and excel in the computer science field. In this self-assessment, I will discuss how my coursework and ePortfolio have contributed to my readiness for employment in the computer science field, with a focus on collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering, database management, and security.
@@ -31,11 +33,11 @@ To showcase my work in this portfolio I have chosen three items which we will ca
 
 The three categories in which I will demonstrate my skills are:
 
-- Software Design and Engineering
+- **Software Design and Engineering**
 
-- Algorithms and Data Structures
+- **Algorithms and Data Structures**
 
-- Databases
+- **Databases**
 
 The links below correspond to my code review. Each video contains an explanation of the artifact,
 a code review, and the enhancements I propose for each artifact. 
@@ -58,6 +60,7 @@ Let us begin with Artifact One - Software Design and Engineering:
 
 Below is a link to the original Artifact, the enhanced Artifact, and an accompanying Narrative with details of my skills demonstrated. 
 
+![Artifact One](/Vice25/Artifact One.zip)
 
 
 
