@@ -23,7 +23,9 @@ Over the course of my educational journey towards earning a Bachelor of Science 
          The artifacts in my ePortfolio collectively showcase the full range of my computer science talents and abilities. They provide evidence of my proficiency in collaborating with teams, effectively communicating technical concepts, applying data structures and algorithms, practicing software engineering principles, managing databases, and prioritizing security. Together, these artifacts paint a comprehensive picture of my readiness to enter the computer science field and contribute effectively to a variety of projects and roles.
 
          The examples that follow comprise my Capstone Project for the program. 
-In the following sections, I will provide specific examples and details related to the artifacts included in my ePortfolio, further illustrating how each artifact aligns with the skills and competencies discussed in this professional self-assessment.
+In the following sections, I will provide specific examples and details related 
+to the artifacts included in my ePortfolio, further illustrating how 
+each artifact aligns with the skills and competencies discussed in this professional self-assessment.
 
 ## Code Review of Three Artifacts
 
@@ -37,10 +39,10 @@ The three categories in which I will demonstrate my skills are:
 
 - Databases
 
-The links below correspond to my code review. Each video contains an explanation of the artifact, a code review, and the enhancements I propose for each artifact. 
+The links below correspond to my code review. Each video contains an explanation of the artifact,
+a code review, and the enhancements I propose for each artifact. 
 
-![Code Review](/assets/img/clement-helardot-95YRwf6CNw8-unsplash.jpg)
-
+![Code Review](/assets/img/jason-goodman-Oalh2MojUuk-unsplash.jpg)
 The links to the three code reviews:
 
 -[Artifact One](https://youtu.be/4n3DoIpqtC4)
@@ -51,7 +53,8 @@ The links to the three code reviews:
 
 Let us begin with Artifact One - Software Design and Engineering:
 
-![Artifact One](/assets/img/jason-goodman-Oalh2MojUuk-unsplash.jpg)
+
+![Artifact One](/assets/img/clement-helardot-95YRwf6CNw8-unsplash.jpg)
 
 ## The First Artifact - Software Design and Engineering
 
@@ -60,8 +63,8 @@ Below is a link to the original Artifact, the enhanced Artifact, and an accompan
 
 
 
+![Artifact Two](assets/img/mimi-thian-ZKBzlifgkgw-unsplash.jpg)
 
-![Artifact Two](assets/img/gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
 
 ## The Second Artifact -  Algorithms and Data Structures
 
@@ -69,8 +72,7 @@ Below is a link to the original Artifact, the enhanced Artifact, and an accompan
 
 
 
-![Artifact Three](assets/img/mimi-thian-ZKBzlifgkgw-unsplash.jpg)
-
+![Artifact Three](assets/img/gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
 
 ## The Third artifact - Databases
 
