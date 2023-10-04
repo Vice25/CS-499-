@@ -22,10 +22,8 @@ Over the course of my educational journey towards earning a Bachelor of Science 
 **Overall Integration of Artifacts:**
          The artifacts in my ePortfolio collectively showcase the full range of my computer science talents and abilities. They provide evidence of my proficiency in collaborating with teams, effectively communicating technical concepts, applying data structures and algorithms, practicing software engineering principles, managing databases, and prioritizing security. Together, these artifacts paint a comprehensive picture of my readiness to enter the computer science field and contribute effectively to a variety of projects and roles.
 
-         The examples that follow comprise my Capstone Project for the program. 
-In the following sections, I will provide specific examples and details related 
-to the artifacts included in my ePortfolio, further illustrating how 
-each artifact aligns with the skills and competencies discussed in this professional self-assessment.
+         The examples that follow comprise my Capstone Project for the program. In the following sections, I will provide specific examples and details related 
+to the artifacts included in my ePortfolio, further illustrating how each artifact aligns with the skills and competencies discussed in this professional self-assessment.
 
 ## Code Review of Three Artifacts
 
@@ -74,7 +72,7 @@ Below is a link to the original Artifact, the enhanced Artifact, and an accompan
 
 ![Artifact Three](assets/img/gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
 
-## The Third artifact - Databases
+## The Third Artifact - Databases
 
 Below is a link to the original Artifact, the enhanced Artifact, and an accompanying Narrative with details of my skills demonstrated, also included
 
@@ -82,7 +80,7 @@ are additional files to support the work. Two files that contain SQL scripts
 
 
 
-## Conclusion
+## In conclusion
 
  
  
