@@ -97,7 +97,8 @@ a code review, and the enhancements  proposed for each artifact.
 
 ## The First Artifact - Software Design and Engineering
 
-Below is a link to the original Artifact, the enhanced Artifact, and an accompanying Narrative with details of my skills demonstrated. 
+Below is a link to the original Artifact and the enhanced Artifact in one zip folder. An accompanying Narrative with details of my skills demonstrated
+is also included as an MS Word document
 
 [Artifact One](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One.zip)
 
@@ -111,7 +112,8 @@ Below is a link to the original Artifact, the enhanced Artifact, and an accompan
 
 ## The Second Artifact -  Algorithms and Data Structures
 
-Below is a link to the original Artifact, the enhanced Artifact, and an accompanying Narrative with details of my skills demonstrated.
+Below is a link to the original Artifact and the enhanced Artifact in one zip folder. An accompanying Narrative with details of my skills demonstrated
+is also included as an MS Word document
 
 [Artifact Two](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two.zip)
 
@@ -125,9 +127,8 @@ Below is a link to the original Artifact, the enhanced Artifact, and an accompan
 
 ## The Third Artifact - Databases
 
-Below is a link to the original Artifact, the enhanced Artifact, and an accompanying Narrative with details of my skills demonstrated, also included
+Below is a link to the original Artifact, the enhanced Artifact, and two SQL script files in one zip folder. An accompanying Narrative with details of my skills demonstrated is also included as an MS Word document
 
-are additional files to support the work. Two files that contain SQL scripts
 
 [Artifact Three]()
 
