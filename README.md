@@ -43,7 +43,7 @@ to the artifacts included in my ePortfolio, further illustrating how each artifa
 
 ## Code Review of Three Artifacts
 
-To showcase my work in this portfolio I have chosen three items which we will call artifacts from various courses within the program.
+To showcase my work in this portfolio I have chosen three projects or artifacts from various courses within the program.
 
 The three categories in which I will demonstrate my skills are:
 
@@ -57,7 +57,6 @@ The links below correspond to my code review. Each video contains an explanation
 a code review, and the enhancements I propose for each artifact. 
 
 ![Code Review](/assets/img/jason-goodman-Oalh2MojUuk-unsplash.jpg)
-The links to the three code reviews:
 
 [Artifact One](https://youtu.be/4n3DoIpqtC4)
 
@@ -111,9 +110,9 @@ are additional files to support the work. Two files that contain SQL scripts
 
 ## Description
 
-## In conclusion
+## Reflections
 
- 
+ I have viewed my journey through the program in pursuit of my degree in Computer Science as a learning experience analogous to the construction of a building. I see Software Design and Engineering as the foundation. A strong foundation is necessary for any structure to be built to code  with clear engineering and architectural principles in place. I see Algorithms and Data Structures as tools. In the construction of a building, there would be several areas of installation of appliances and fixtures. My knowledge of Algorithms and Data Structures gives me a strong background to troubleshoot and ensure the add-ons work harmoniously in the newly constructed building. Finally, Databases I see as the valuables. You would want to build a home and be able to secure your possessions; a strong security system around the perimeter and a safe within to protect your assets will provide security and peace of mind. I see cybersecurity in this role. Safeguarding of databases is vital. Together, a stable structure can be produced, fully equipped to be user-friendly conforming to the homeowner’s specifications, and be fully protected from the threat of attack or loss. Computer Science is a fast-moving train, I want to be on board.
  
 
                                                  
