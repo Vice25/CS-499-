@@ -62,11 +62,7 @@ My ePortfolio collectively serves as a comprehensive showcase of my computer sci
    - *Artifact Two:* The introduction of safeguards and user guidance in Program 2 demonstrates a security mindset by steering users toward proper program flow and averting potential errors.
    - *Artifact Three:* The entirety of the enhancement in Artifact Three revolves around cultivating a security mindset. The narrative underscores the importance of securing the environment, enabling authentication plugins, and ensuring data encryption, showcasing an unwavering commitment to security.
 
-In summation, these artifacts collectively validate my ability to foster collaborative environments, communicate effectively, apply algorithmic principles, employ innovative
-
- techniques, and nurture a security-centric mindset. The narratives and reflections provide valuable insights into the decision-making process, challenges encountered, and continuous learning, embodying a holistic approach to professional growth in the realm of computer science. The presentation of my ePortfolio, along with the accompanying video code reviews and artifact enhancement narratives, substantiates my capacity to design, develop, and deliver professional-quality oral, written, and visual communications that are cogent, technically robust, and finely tailored to specific audiences and contexts.
  
-
 ## Code Review of Three Artifacts
 
 To showcase my work in this portfolio I have chosen three projects or artifacts from various courses within the program.
@@ -105,7 +101,20 @@ is also included as an MS Word document
 
 [Artifact One Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One%20Narrative.docx)
 
-## Description
+## Description and Enhancements
+Artifact Type: Source code from CS 260 Algorithms and Data Structures
+ Language: Originally written in  C++, ported to  Python as my enhancement.
+
+This artifact demonstrates proficiency in software development by showcasing my ability to design and implement a bid management program in two different programming languages (C++ and Python).
+ It highlights my ability to work with user input, data structures, object-oriented programming concepts, and menu-driven user interfaces.
+The C++ and Python versions provide a valuable comparison of code in two popular programming languages, demonstrating adaptability and versatility in software development.
+For these reasons, I chose this artifact for the category of Software Design and Engineering.
+ In both versions, the creation and usage of a `Bid` data structure/class showcase object-oriented programming skills.
+ Input handling for user data (title, fund, vehicle, amount) demonstrates skills in user interaction and data validation.
+The menu-driven interface showcases control flow and conditional logic skills.
+String manipulation for formatting and cleaning the bid amount demonstrates data manipulation abilities.
+
+
 
 ![Artifact Two](assets/img/mimi-thian-ZKBzlifgkgw-unsplash.jpg)
 
@@ -120,8 +129,18 @@ is also included as an MS Word document
 
 [Artifact Two Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two%20Narrative%20(1).docx)
 
-## Description
+## Description and Enhancements
+Artifact Type: Source code from CS 260 Algorithms and Data Structures
+ Language: C++ Bid management program with selection sort and quick sort, bidirectional selection sort, and user-friendly features added as my enhancement
 
+This artifact demonstrates proficiency in software development by showcasing my ability to design and implement a bid management program improved by increasing its selection sort efficiency, adding user-friendly prompts and a prompt to load bid data from a CSV file before attempting to display bid data. 
+The first prompt will be to enter your name, the second prompt will be to enter your birth year. You will be greeted by name and a display of how old you are will follow. The next prompts allow you to load the bids and sort the bids. If however the bids are not first loaded you will receive a message to load the bids first. This will occur until option 1, Load all bids is chosen. At this point, a bidirectional selection sort or a quick sort can be chosen. You may also choose to exit the program.
+
+ 	It highlights my ability to work with user input, data structures, different sorting methods,  and menu-driven user interfaces.
+For these reasons, I chose this artifact for the category of Data Structures and Algorithms.
+ In both versions, the loading and sorting of  CSV files containing Bid data showcase my ability to load and sort data from a CSV file and calculate and display the time taken to perform each operation.
+ Input handling for user data (title, fund, vehicle, amount) demonstrates skills in user interaction and data validation. The menu-driven interface showcases control flow and conditional logic skills. String manipulation for formatting and cleaning the bid amount demonstrates data manipulation abilities.  
+The two programs, both designed for sorting bid data, exhibit several notable differences in functionality and user interaction. These differences are particularly pronounced in the handling of user input, the introduction of a new sorting algorithm, and the addition of safeguards for proper program execution.
 
 ![Artifact Three](assets/img/gabriel-heinzer-g5jpH62pwes-unsplash.jpg)
 
@@ -135,9 +154,23 @@ Below is a link to the original Artifact, the enhanced Artifact, and two SQL scr
 
 [Artifact Three Narrative]()
 
-## Description
+## Description and Enhancements
+Artifact Type: From  DAD-220 Introduction to Structured Database Environments, Project One taken in Dec of 2022, PDF with screenshots and SQL queries and commands for use in MySQL.
+ Language: SQL and MySQL are database-related languages. 
+ 
+To provide a comprehensive justification for the inclusion of my relational database skills, specifically working with MySQL, in my portfolio I include the work below. As a passionate and dedicated individual in the field of data management, I strongly believe that my proficiency in this area is essential for showcasing my expertise and versatility as a professional.
+ First and foremost, relational databases, particularly MySQL, are widely recognized and extensively used in various industries and organizations worldwide. By including my proficiency in MySQL in my portfolio, I am highlighting my ability to work with a widely accepted and highly utilized database management system. This demonstrates my adaptability and readiness to contribute effectively to any project or team that relies on database management.
+Furthermore, relational databases play a crucial role in organizing and managing large volumes of data efficiently. The ability to handle and manipulate data effectively is invaluable in today's data-driven world, where organizations heavily rely on accurate and accessible information for decision-making and strategic planning.
+Lastly, including my proficiency in MySQL in my portfolio also reflects my commitment to continuous learning and professional growth. Relational databases are constantly evolving, and staying up-to-date with the latest advancements and best practices is essential. 
+
+ Enhancing the Artifact requires a secure environment in which to work. The environment provided when a MySQL download is installed and configured accommodates these conditions from the very beginning. Allowing the user to set a password for the root, act as administrator, and assign permission to users is a way MySQL allows security measures to be set. The screenshots in the Artifact Three enhancement show how to enable the authentication plugin so no unauthorized access will be permitted. The use of the newer feature, “caching_sha2_password” greatly ensures a safe and workable environment reducing the threat of cyber-attacks and hackers. MySQL has a built-in feature called “at rest encryption” that ensures the data is encrypted and protected from attacks. The recreation of the database schema “QuantigrationUpdates” with its three tables, “Customers, Orders, and RMA” was provided to demonstrate my ability to recreate the same dataset in a different environment. The examples provided of the CRUD functions, Create, Read, Update, and Delete show my ability to manage data in  the way that all big data are used just on a larger scale. 
+        
+
 
 ## Reflections
+
+In summation, these artifacts collectively validate my ability to foster collaborative environments, communicate effectively, apply algorithmic principles, employ innovative techniques, and nurture a security-centric mindset. The narratives and reflections provide valuable insights into the decision-making process, challenges encountered, and continuous learning, embodying a holistic approach to professional growth in the realm of computer science. The presentation of my ePortfolio, along with the accompanying video code reviews and artifact enhancement narratives, substantiates my capacity to design, develop, and deliver professional-quality oral, written, and visual communications that are cogent, technically robust, and finely tailored to specific audiences and contexts.
+ 
  
 
                                                  
