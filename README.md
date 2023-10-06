@@ -3,7 +3,7 @@
 ![Introduction](/assets/img/annie-spratt-dWYU3i-mqEo-unsplash.jpg)
 
 ## Table of Contents:
-- Self Assessment
+- Professional Self-Assessment
 - Code Review
 - Artifact One **Software Design and Engineering**
 - Artifact Two **Algorithms and Data Structures**
@@ -17,13 +17,13 @@
 Throughout my educational journey towards attaining a Bachelor of Science in Computer Science at Southern New Hampshire University, commencing in January 2020, I have diligently cultivated a diverse set of skills and competencies, with a particular focus on Data Analytics. This concentration has piqued my interest in data cleaning and data mining, two areas I've had the privilege to delve into during my academic pursuit. The culmination of my coursework and the creation of this ePortfolio have proven invaluable, not only in spotlighting my strengths but also in profoundly shaping my professional aspirations and values. This self-assessment aims to elucidate how my academic journey and ePortfolio development have fortified my preparedness for the computer science job market, with an emphasis on key areas including team collaboration, stakeholder communication, data structures, algorithms, software engineering, database management, and security.
 
 **Foundation and Building Blocks:**
-Analogous to constructing a building, my educational odyssey in computer science has unfolded in three fundamental stages. Firstly, Software Design and Engineering laid the foundation, emphasizing the importance of clear architectural principles and code adherence to industry standards. Secondly, Algorithms and data structures furnished me with versatile tools, akin to fixtures and appliances in a building, ensuring harmonious integration of various components. Lastly, Databases represented valuables, emphasizing the need for robust security measures and encryptions to safeguard valuable assets – akin to cybersecurity's role in protecting data from threats.
+Analogous to constructing a building, my educational odyssey in computer science has unfolded in three fundamental stages. Firstly, Software Design and Engineering laid the foundation, emphasizing the importance of clear architectural principles and code adherence to industry standards. Secondly, Algorithms and data structures furnished me with versatile tools, akin to fixtures and appliances in a building, ensuring the harmonious integration of various components. Lastly, Databases represented valuables, emphasizing the need for robust security measures and encryptions to safeguard valuable assets – akin to cybersecurity's role in protecting data from threats.
 
 **Collaborating in a Team Environment:**
 Throughout my academic tenure, I actively engaged in collaborative projects and coursework, thereby honing my ability to thrive within team dynamics. I have assumed leadership roles, coordinated team efforts, and collaborated effectively with peers. An illustrative example lies in my participation in the Software Development Lifecycle course, where I partook in Agile simulations and diverse scenarios, enhancing my teamwork capabilities.
 
 **Communicating with Stakeholders:**
-Effective communication with stakeholders is paramount in computer science. During my academic journey, I undertook assignments that necessitated the preparation of technical reports, documentation, and presentations, adeptly conveying intricate technical concepts to both technical and non-technical audiences. An exemplar of this lies in my work on data cleaning, where I crafted a presentation tailored for non-technical stakeholders.
+Effective communication with stakeholders is paramount in computer science. During my academic journey, I undertook assignments that necessitated the preparation of technical reports, documentation, and presentations, adeptly conveying intricate technical concepts to both technical and non-technical audiences. An example of this lies in my work on data cleaning, where I crafted a presentation tailored to non-technical stakeholders.
 
 **Data Structures and Algorithms:**
 My coursework has furnished me with a solid grounding in data structures and algorithms, pivotal in computer science. I successfully completed projects involving the implementation of diverse data structures and algorithms, such as linked lists, binary search trees, and sorting algorithms. A case in point is my implementation of a bid management program, showcasing proficiency in data structures, object-oriented programming, and algorithmic principles.
@@ -41,7 +41,7 @@ My ePortfolio collectively serves as a comprehensive showcase of my computer sci
 
 1. **Building Collaborative Environments:**
    - *Artifact One:* The enhancement of this artifact exhibits collaboration by adapting and enhancing code from C++ to Python, fostering a more versatile solution. The narrative elucidates the distinctions between the two versions, emphasizing collaboration among developers proficient in diverse languages. The reflection underscores the significance of adaptability in a varied software development milieu.
-   - *Artifact Two:* The inclusion of personalized user experiences, introduction of a novel sorting algorithm, and implementation of safeguards exemplify a collaborative mindset. These enhancements address potential user needs and augment program usability. Furthermore, the reflection underscores the importance of versatility in software development, aligning with collaborative principles.
+   - *Artifact Two:* The inclusion of personalized user experiences, the introduction of a novel sorting algorithm, and the implementation of safeguards exemplify a collaborative mindset. These enhancements address potential user needs and augment program usability. Furthermore, the reflection underscores the importance of versatility in software development, aligning with collaborative principles.
    - *Artifact Three:* Security-focused enhancements within this artifact demonstrate a proactive approach to collaborative security measures. Describing the steps to recreate the environment with added security features furnishes valuable insights for fellow developers, nurturing collaboration in establishing secure database environments.
 
 2. **Professional-Quality Communications:**
@@ -86,7 +86,7 @@ a code review, and the enhancements  proposed for each artifact.
 
 [Artifact Three](https://youtu.be/Qle14z4Gb1A)
 
- Artifact One - Software Design and Engineering:
+
 
 
 ![Artifact One](/assets/img/clement-helardot-95YRwf6CNw8-unsplash.jpg)
