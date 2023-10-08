@@ -93,8 +93,7 @@ a code review, and the enhancements  proposed for each artifact.
 
 ## The First Artifact - Software Design and Engineering
 
-Below is a link to the original Artifact and the enhanced Artifact in one zip folder. An accompanying Narrative with details of my skills demonstrated
-is also included as an MS Word document
+A link is provided below to the original and enhanced Artifact in a zip file, accompanied by a Narrative detailing the skills demonstrated as a Word document
 
 [Artifact One](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One.zip)
 
@@ -109,7 +108,7 @@ This artifact demonstrates proficiency in software development by showcasing my 
  It highlights my ability to work with user input, data structures, object-oriented programming concepts, and menu-driven user interfaces.
 The C++ and Python versions provide a valuable comparison of code in two popular programming languages, demonstrating adaptability and versatility in software development.
 For these reasons, I chose this artifact for the category of Software Design and Engineering.
- In both versions, the creation and usage of a `Bid` data structure/class showcase object-oriented programming skills.
+ In both versions, the creation and usage of a Bid data structure/class showcase object-oriented programming skills.
  Input handling for user data (title, fund, vehicle, amount) demonstrates skills in user interaction and data validation.
 The menu-driven interface showcases control flow and conditional logic skills.
 String manipulation for formatting and cleaning the bid amount demonstrates data manipulation abilities.
@@ -121,8 +120,8 @@ String manipulation for formatting and cleaning the bid amount demonstrates data
 
 ## The Second Artifact -  Algorithms and Data Structures
 
-Below is a link to the original Artifact and the enhanced Artifact in one zip folder. An accompanying Narrative with details of my skills demonstrated
-is also included as an MS Word document
+
+A link is provided below to the original and enhanced Artifact in a zip file, accompanied by a Narrative detailing the skills demonstrated as a Word document
 
 [Artifact Two](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two.zip)
 
@@ -134,7 +133,7 @@ Artifact Type: Source code from CS 260 Algorithms and Data Structures
  Language: C++ Bid management program with selection sort and quick sort, bidirectional selection sort, and user-friendly features added as my enhancement
 
 This artifact demonstrates proficiency in software development by showcasing my ability to design and implement a bid management program improved by increasing its selection sort efficiency, adding user-friendly prompts and a prompt to load bid data from a CSV file before attempting to display bid data. 
-The first prompt will be to enter your name, the second prompt will be to enter your birth year. You will be greeted by name and a display of how old you are will follow. The next prompts allow you to load the bids and sort the bids. If however the bids are not first loaded you will receive a message to load the bids first. This will occur until option 1, Load all bids is chosen. At this point, a bidirectional selection sort or a quick sort can be chosen. You may also choose to exit the program.
+The first prompt will be to enter your name, the second prompt will be to enter your birth year. You will be greeted by name and a display of how old you are will follow. The next prompts allow you to load the bids and sort the bids. If the bids are not first loaded you will receive a message to load the bids first. This will occur until option 1, Load all bids is chosen. At this point, a bidirectional selection sort or a quick sort can be chosen. You may also choose to exit the program.
 
  	It highlights my ability to work with user input, data structures, different sorting methods,  and menu-driven user interfaces.
 For these reasons, I chose this artifact for the category of Data Structures and Algorithms.
@@ -146,7 +145,8 @@ The two programs, both designed for sorting bid data, exhibit several notable di
 
 ## The Third Artifact - Databases
 
-Below is a link to the original Artifact, the enhanced Artifact, and two SQL script files in one zip folder. An accompanying Narrative with details of my skills demonstrated is also included as an MS Word document
+
+A link is provided below to the original and enhanced Artifact, along with SQL script files in a zip file, accompanied by a Narrative detailing the skills demonstrated as a Word document
 
 
 [Artifact Three]()
