@@ -155,7 +155,7 @@ Below is a link to the original Artifact, the enhanced Artifact, and two SQL scr
 [Artifact Three Narrative]()
 
 ## Description and Enhancements
-Artifact Type: From  DAD-220 Introduction to Structured Database Environments, Project One taken in Dec of 2022, PDF with screenshots and SQL queries and commands for use in MySQL.
+Artifact Type: From  DAD-220 Introduction to Structured Database Environments, Project One of the course in a PDF file with screenshots, SQL queries, and commands for use in MySQL. The Project provided experience in creating a schema, adding tables, and populating tables with data. Searches and sorts were then performed using data loaded from CSV files.
  Language: SQL and MySQL are database-related languages. 
  
 To provide a comprehensive justification for the inclusion of my relational database skills, specifically working with MySQL, in my portfolio I include the work below. As a passionate and dedicated individual in the field of data management, I strongly believe that my proficiency in this area is essential for showcasing my expertise and versatility as a professional.
