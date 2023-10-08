@@ -80,11 +80,11 @@ a code review, and the enhancements  proposed for each artifact.
 
 ![Code Review](/assets/img/jason-goodman-Oalh2MojUuk-unsplash.jpg)
 
-[Artifact One](https://youtu.be/4n3DoIpqtC4)
+[Artifact One Code Review](https://youtu.be/4n3DoIpqtC4)
 
-[Artifact Two](https://youtu.be/8b6zVVGQ_Vg)
+[Artifact Two Code Review](https://youtu.be/8b6zVVGQ_Vg)
 
-[Artifact Three](https://youtu.be/Qle14z4Gb1A)
+[Artifact Three Code Review](https://youtu.be/Qle14z4Gb1A)
 
 
 
@@ -95,7 +95,7 @@ a code review, and the enhancements  proposed for each artifact.
 
 A link is provided below to the original and enhanced Artifact in a zip file, accompanied by a Narrative detailing the skills demonstrated as a Word document
 
-[Artifact One](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One.zip)
+[Artifact One Zip](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One.zip)
 
 
 [Artifact One Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20One%20Narrative.docx)
@@ -123,7 +123,7 @@ String manipulation for formatting and cleaning the bid amount demonstrates data
 
 A link is provided below to the original and enhanced Artifact in a zip file, accompanied by a Narrative detailing the skills demonstrated as a Word document
 
-[Artifact Two](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two.zip)
+[Artifact Two Zip](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two.zip)
 
 
 [Artifact Two Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Two%20Narrative%20(1).docx)
@@ -149,7 +149,7 @@ The two programs, both designed for sorting bid data, exhibit several notable di
 A link is provided below to the original and enhanced Artifact, along with SQL script files in a zip file, accompanied by a Narrative detailing the skills demonstrated as a Word document
 
 
-[Artifact Three]()
+[Artifact Three Zip]()
 
 
 [Artifact Three Narrative]()
