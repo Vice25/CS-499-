@@ -152,7 +152,7 @@ A link is provided below to the original and enhanced Artifact, along with SQL s
 [Artifact Three Zip]()
 
 
-[Artifact Three Narrative]()
+[Artifact Three Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Three%20Narrative.docx)
 
 ## Description and Enhancements
 Artifact Type: From  DAD-220 Introduction to Structured Database Environments, Project One of the course in a PDF file with screenshots, SQL queries, and commands for use in MySQL. The Project provided experience in creating a schema, adding tables, and populating tables with data. Searches and sorts were then performed using data loaded from CSV files.
