@@ -59,7 +59,7 @@ My ePortfolio collectively serves as a comprehensive showcase of my computer sci
 
 5. **Development of a Security Mindset:**
    - *Artifact One:* While security isn't the central focus here, the consideration of language-specific nuances during code adaptation reflects an awareness of potential security implications.
-   - *Artifact Two:* The introduction of safeguards and user guidance in Program 2 demonstrates a security mindset by steering users toward proper program flow and averting potential errors.
+   - *Artifact Two:* The introduction of safeguards and user guidance in the enhancements demonstrate a security mindset by steering users toward proper program flow and averting potential errors.
    - *Artifact Three:* The entirety of the enhancement in Artifact Three revolves around cultivating a security mindset. The narrative underscores the importance of securing the environment, enabling authentication plugins, and ensuring data encryption, showcasing an unwavering commitment to security.
 
  
