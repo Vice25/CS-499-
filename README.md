@@ -149,7 +149,7 @@ The two programs, both designed for sorting bid data, exhibit several notable di
 A link is provided below to the original and enhanced Artifact, along with SQL script files in a zip file, accompanied by a Narrative detailing the skills demonstrated as a Word document
 
 
-[Artifact Three Zip]()
+[Artifact Three Zip](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Three.zip)
 
 
 [Artifact Three Narrative](https://github.com/Vice25/Vice25.github.io/blob/main/Artifact%20Three%20Narrative.docx)
